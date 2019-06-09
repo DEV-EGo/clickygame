@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Shao kahn",
+        "image": "../assets/images/fighter1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "scorpion",
+        "image": "../assets/images/fighter2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "lu kang",
+        "image": "../assets/images/fighter3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "random ninja",
+        "image": "../assets/images/fighter4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Baraka",
+        "image": "../assets/images/fighter5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Raiden",
+        "image": "../assets/images/fighter6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Quan Chi",
+        "image": "../assets/images/fighter7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Goro",
+        "image": "../assets/images/fighter8.jpeg"
+    }
+]
